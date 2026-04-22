@@ -2,4 +2,16 @@ The cloud is based on the fundamental concept of client-server model.
 Another key principle of cloud computing is that unlike onprem resources, you only pay for what you use
 Coud computing can be defined as the on-demand delivery of IT resources over the internet with pay-as-you-go pricing 
 Coud deployment types include; Cloud, On-premise and Hybrid deployment. 
-Cloud deployment type, you move your resources to the cloud, design and build new applications in the cloud 
+Cloud deployment type, you move your resources to the cloud, design and build new applications in the cloud
+On-premise deployment type, you have your IT resources deployed on premises using virtulaization and resource management tools
+Hybrid cloud deployment type is the combination of both clodud and o_onpremise deployments.
+Key benefits of the cloud 
+1. Trade fixed expense to variable expense 
+2. Benefit from massive economies of scale
+3. Stop guesing capacity
+4. Speed and agility 
+5. Stop spending money to run and maintain data centers 
+6. Go global in minutes 
+AWS Region: AWS regions are physical locations around the world that contain groups of data centers.
+These goups of data ceneters are called availability zones (AZ). Each region contains a minimum of three physically seperated AZ
+AZ consist of one or more data centers with redundant power, networking and connectivity 
