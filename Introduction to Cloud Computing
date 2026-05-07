@@ -15,3 +15,6 @@ Key benefits of the cloud
 AWS Region: AWS regions are physical locations around the world that contain groups of data centers.
 These goups of data ceneters are called availability zones (AZ). Each region contains a minimum of three physically seperated AZ
 AZ consist of one or more data centers with redundant power, networking and connectivity 
+The shared responsibility model in cloud computing is a framework defining the security duties between the cloud provider and the
+customer. The cloud provider secures the cloud (Infrastructure, hardware and networking) while the customer is responsible for 
+the data and applications in the cloud (data, configuration and access).
