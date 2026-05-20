@@ -1,0 +1,7 @@
+Compute refers to the processing power needed to run applications, manage data and perform calculations.
+Essentially, compute in the cloude means creating virtual machines with a cloud provider to run applications and tasks over the 
+internet. In AWS, the VM is Amazon Elastic Comupute Cloud EC2. EC2 is flexible, cost effective and quick compared to buying your 
+own on prem server and running installation.
+With EC2 you only pay for running instances. VMs share an underlying physical host machine with other multiple instances and this
+concept is called multitenancy. The VMs are isolated by a software called hypervisor which is running on the host machine.
+If the application running is starting to max out the server, the server can be given more CPU and more memory (vertical scalling)
