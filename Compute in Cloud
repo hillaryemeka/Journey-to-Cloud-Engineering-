@@ -5,3 +5,9 @@ own on prem server and running installation.
 With EC2 you only pay for running instances. VMs share an underlying physical host machine with other multiple instances and this
 concept is called multitenancy. The VMs are isolated by a software called hypervisor which is running on the host machine.
 If the application running is starting to max out the server, the server can be given more CPU and more memory (vertical scalling)
+Amazon EC2 provides a range of types depending the need; 
+General purpose: Ideal when workload perfomance is uncertain. example workloads include web services, code repositories, etc
+Compute optimized: Ideal for compute-intensive tasks like gamine, high perfomance computing, machine learning and Scientific modeling
+Memory optimized: Ideal for memory intensive tasks like large dataset, data analytics and databases
+Storage optimised: Ideal when high perfomance is needed for locally stored data like Large databases, data warehousing and I/O-intensive applicaions
+Accelerated computing: Ideal for tasks such as floating point calculations, grappics processing 
